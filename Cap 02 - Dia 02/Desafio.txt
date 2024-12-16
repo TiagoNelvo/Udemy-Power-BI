@@ -1,0 +1,4 @@
+Desafio
+Load (Coffee-walmart-stores.csv)
+Localizar os erros
+Corrigir o erro
