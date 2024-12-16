@@ -1,0 +1,5 @@
+Query = Consulta
+
+arquivo -> PBI QUERY -> Limpar os Dados -> Relatórios Desktop Power BI
+
+
